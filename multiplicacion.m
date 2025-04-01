@@ -13,3 +13,8 @@ factorial_b=1*b;
 factorial_c=factorial_a*5*c;
 maddi= factorial_a*factorial_a*5*c
 
+%no se que poner, ya no tengo ideas
+c=0
+for i=1:4
+    c=c+i;
+end
