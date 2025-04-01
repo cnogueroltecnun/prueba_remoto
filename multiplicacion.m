@@ -11,4 +11,5 @@ multiplicacion=a*b*c
 factorial_a=1*b*3*a;
 factorial_b=1*b;
 factorial_c=factorial_a*5*c;
+maddi= factorial_a*factorial_a*5*c
 
