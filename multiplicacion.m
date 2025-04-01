@@ -12,3 +12,8 @@ factorial_a=1*b*3*a;
 factorial_b=1*b;
 factorial_c=factorial_a*5*c;
 
+
+
+
+%no se que poner, ya no tengo ideas
+
