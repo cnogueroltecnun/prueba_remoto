@@ -17,6 +17,8 @@ cris=maddi+4+5+6+7;
 
 
 %no se que poner, ya no tengo ideas
+
+%Hola caracola :)
 c=0
 for i=1:4
     c=c+i;
